@@ -1,0 +1,12 @@
+body {
+  background: rgb(220, 188, 125);
+}
+
+a {
+  background: rgb(103, 224, 245);
+  font-size: 20px;
+}
+
+a:hover {
+  background-color: gold;
+}

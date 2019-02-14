@@ -1,0 +1,42 @@
+body {
+  background: rgb(9, 110, 163);
+}
+
+.thumbnail-image {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.thumbnail-title {
+  background: rgb(255, 255, 255);
+  display: block;
+  font-size: 18px;
+  margin: 0;
+  padding-left: 4px;
+}
+
+.thumbnail-item {
+  border: 1px solid rgb(100%, 100%, 100%);
+  border: 1px solid rgba(100%, 100%, 100%, 0.8);
+  display: block;
+}
+
+.thumbnail-item+.thumbnail-item {
+  margin-top: 10px;
+}
+
+.title-text {
+  font-size: 37px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+a {
+  background: rgb(103, 224, 245);
+  font-size: 20px;
+}
+
+a:hover {
+  background-color: gold;
+}

@@ -1,0 +1,29 @@
+body {
+  background: rgb(82, 164,70);
+}
+
+.title-name{
+  font-family: fantasy;
+  font-size: 40px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p {
+  background: rgb(220, 188, 125);
+}
+
+ul {
+  background: rgb(220, 188, 125);
+  list-style: square
+}
+
+
+a{
+  background: rgb(103, 224, 245);
+  font-size: 20px;
+}
+
+a:hover {
+  background-color: gold;
+}
